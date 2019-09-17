@@ -502,7 +502,7 @@ article p{
 }
 
 article p img {
-	block: inline-block;
+	display: inline-block;
 }
 
 li p{
