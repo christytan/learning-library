@@ -100,7 +100,7 @@ Note: A network administrator needs to pre-provision a client network and setup 
 
 
 ### Download Autonomous Credentials ### 
-<br />
+
 - Click on Menu and select Autonomous Transaction Processing
 
 - On the ATP console, select the dedicated ATP instance provisioned in <a href="./LabGuide400ProvisiondatabaseonyourdedicatedAutonomousInfrastructure.md" target="_blank">Lab 4</a>. &nbsp; &nbsp;
